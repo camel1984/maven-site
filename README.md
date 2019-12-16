@@ -8,3 +8,4 @@ mvn archetype:generate
 mvn install
 mvn -Pproduction install
 
+mvn site:run
