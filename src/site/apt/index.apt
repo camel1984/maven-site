@@ -1,12 +1,17 @@
-Welcome to the Sample Project, we hope you enjoy your time
-on this project site. We've tried to assemble some
-great user documentation and developer information, and
-we're really excited that you've taken the time to visit
-this site.
+---
+Introduction to Sample Project
+---
+Brian Fox
+---
+26-Mar-2008
+---
+Welcome to Sample Project
 
-What is Sample Project
-
-Well, it's easy enough to explain. This sample project is
-a sample of a project with a Maven-generated site from
-Maven: The Definitive Guide. A dedicated team of volunteers
-help maintain this sample site, and so on and so forth.
+    This is a sample project, welcome! We're excited that you've decided to read the
+    index page of this Sample Project. We hope you enjoy the simple sample project
+    we've assembled for you.
+    Here are some useful links to get you started:
+        * {{{news.html}News}}
+        * {{{features.html}Features}}
+        * {{{faq.html}FAQ}}
+        []
