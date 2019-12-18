@@ -1,4 +1,9 @@
 <project name="Sample Project">
+
+    <skin>
+        <groupId>org.sonatype.mavenbook.ch15</groupId>
+        <artifactId>sample-site-skin</artifactId>
+    </skin>
     <bannerLeft>
         <name>Left Banner</name>
         <src>images/banner-left.png</src>
